@@ -1,0 +1,6 @@
+{
+    "testing.alwaysRevealTestOnStateChange": true,
+    "extensions.closeExtensionDetailsOnViewChange": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "editor.renderControlCharacters": true
+}
